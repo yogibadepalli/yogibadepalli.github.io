@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yogi HomePage"
+title                    : "Yogi's HomePage"
 title_separator          : "-"
 name                     : &name "Yogeswar Badepalli"
 description              : &description "personal description"
