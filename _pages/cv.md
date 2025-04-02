@@ -42,30 +42,48 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * SQL
+  * Git
+* Machine Learning
+* Deep Learning
+* Data Visualization
+  * Matplotlib
+  * Seaborn
+  * Plotly
+  * Tableau
+* Tools & Platforms
+  * Jupyter Notebook
+  * Visual Studio
+  * MSSQL Server
+  * AWS S3
+* Methodologies
+  * Agile
+* Version Control
+  * Git
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+  <li>
+    <a href="/publications/propaganda-detection/"><strong>Propaganda Detection</strong></a><br/>
+    Compared machine learning methods for propaganda detection. Achieved 91% accuracy using BERT, improving accuracy by 22% over baselines.
+  </li>
+    <li>
+    <a href="/publications/propaganda-detection/"><strong>Propaganda Detection</strong></a><br/>
+    Compared machine learning methods for propaganda detection. Achieved 91% accuracy using BERT, improving accuracy by 22% over baselines.
+  </li>
+    <li>
+    <a href="/publications/propaganda-detection/"><strong>Propaganda Detection</strong></a><br/>
+    Compared machine learning methods for propaganda detection. Achieved 91% accuracy using BERT, improving accuracy by 22% over baselines.
+  </li>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+</ul>
+
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   <ul>
   <li>
     <strong>Teaching Assistant - Python Programming</strong><br/>
@@ -73,7 +91,3 @@ Teaching
     Assisted in teaching Python programming, helping students with coding exercises, debugging, and understanding core concepts in data science.
   </li>
 </ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
