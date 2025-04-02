@@ -33,7 +33,7 @@ Work experience
     *	Showcased adaptability by quickly learning new technologies and methodologies to meet evolving project requirements.
     *	Documented support processes and troubleshooting procedures to cut new team members' onboarding time by 50%.
    
-* JUne 2016 - July 2021: Associate Consultant
+* June 2016 - July 2021: Senior Software Engineer
   * Softenger, India
     *		Designed and implemented RESTful APIs for seamless data integration, enhancing system scalability and performance.
     *		Utilized Tableau and Python for data visualization and reporting, boosting operational efficiency by 25%.
