@@ -74,12 +74,14 @@ Publications
     Compared machine learning methods for propaganda detection. Achieved 91% accuracy using BERT, improving accuracy by 22% over baselines.
   </li>
     <li>
-    <a href="/publications/propaganda-detection/"><strong>Propaganda Detection</strong></a><br/>
-    Compared machine learning methods for propaganda detection. Achieved 91% accuracy using BERT, improving accuracy by 22% over baselines.
+    <a href="/publications/propaganda-detection/"><strong>Physical Activity Monitoring</strong></a><br/>
+    Performed regression analysis on IMU data using Python and Scikit-learn, improving predictive accuracy by 15%. Developed and tested a linear regression model with multiple features, increasing system performance by 18%.
+
   </li>
     <li>
-    <a href="/publications/propaganda-detection/"><strong>Propaganda Detection</strong></a><br/>
-    Compared machine learning methods for propaganda detection. Achieved 91% accuracy using BERT, improving accuracy by 22% over baselines.
+    <a href="/publications/propaganda-detection/"><strong>Recommendation System</strong></a><br/>
+    Developed a movie recommendation system using Python, Pandas, and Scikit-learn based on historical movie data, improving prediction accuracy by 20%. Conducted hypothesis testing and regression analysis, leading to actionable recommendations that increased production efficiency by 30% and reduced costs by 15%.
+
   </li>
   
 </ul>
