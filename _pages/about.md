@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Data Analyst | Data Scientist | Research Enthusiast
+**Data Analyst | Data Scientist | Research Enthusiast**
 
 I’m a data analyst and aspiring data scientist with a deep passion for research, data analysis, statistical modeling, and visualization. I hold an MSc in Data Science from the University of Sussex, where I developed strong expertise in machine learning, data-driven decision-making, and applied analytics.
 
