@@ -11,21 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Eletrical and Electronics Engineering, Jawaharlal Nehru Technological University, 2014
+* M.S. in Data Science, University of Sussex, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2024 to present: Research Assistant
+  * University of Sussex
+  * Description:
+    * Achieved 20% higher accuracy in solving high-dimensional eigenvalue problems by applying tensor neural networks, providing a significant improvement over traditional Monte-Carlo method.
+    * Simplified complex calculations by breaking down high-dimensional integrations into one-dimensional steps with optimized quadrature schemes, reducing computational demands and overcoming dimensionality challenges.
+    * Boosted solution stability and precision by 15% through combining tensor NN structures with Rayleigh-Ritz techniques, resulting in more reliable eigenfunction approximations for high-dimensional PDEs.
+    * Accelerated convergence by 30% on unbounded domain problems using adaptive scaling within tensor NNs, enabling faster and more accurate results in advanced numerical integration tasks.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Michael Melgaard
+
+* Aug 2021 - Sep 2024: Associate Consultant
+  * ZS Associates, India
+    *	Developed and implemented data-driven solutions using Python and SQL to analyze complex application issues, reducing incident recurrence by 40%.
+    *	Demonstrated problem-solving skills by creating automated monitoring and alert systems using Python, reducing average issue resolution time by 30% and increasing customer satisfaction by 20%.
+    *	Showcased adaptability by quickly learning new technologies and methodologies to meet evolving project requirements.
+    *	Documented support processes and troubleshooting procedures to cut new team members' onboarding time by 50%.
+   
+* JUne 2016 - July 2021: Associate Consultant
+  * Softenger, India
+    *		Designed and implemented RESTful APIs for seamless data integration, enhancing system scalability and performance.
+    *		Utilized Tableau and Python for data visualization and reporting, boosting operational efficiency by 25%.
+    *		Collaborated with cross-functional teams to optimize SQL queries and generate comprehensive reports using SQL server reporting services, reducing report generation time by 30%.
+    *		Conducted debugging, testing, and code reviews, reducing software defects by 25% and improving overall application stability.
   
 Skills
 ======
@@ -53,7 +66,14 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  <ul>
+  <li>
+    <strong>Teaching Assistant - Python Programming</strong><br/>
+    University of Sussex | Jan 2024 - Apr 2024<br/>
+    Assisted in teaching Python programming, helping students with coding exercises, debugging, and understanding core concepts in data science.
+  </li>
+</ul>
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
