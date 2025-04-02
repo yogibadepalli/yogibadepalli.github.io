@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech. in Eletrical and Electronics Engineering, Jawaharlal Nehru Technological University, 2014
-* M.S. in Data Science, University of Sussex, 2024
+* M.Sc. in Data Science, University of Sussex, 2024
 
 Work experience
 ======
@@ -42,26 +42,29 @@ Work experience
   
 Skills
 ======
-* Programming
+* Programming Languages & Tools
   * Python
   * SQL
   * Git
+  * Jupyter Notebook
+  * Visual Studio
+  * SQL Server
+  * AWS S3
+
 * Machine Learning
 * Deep Learning
+  * PyTorch
+  * TensorFlow
+    
 * Data Visualization
   * Matplotlib
   * Seaborn
   * Plotly
   * Tableau
-* Tools & Platforms
-  * Jupyter Notebook
-  * Visual Studio
-  * MSSQL Server
-  * AWS S3
-* Methodologies
+
+* Productivity & Methodologies
+  * Microsoft Office
   * Agile
-* Version Control
-  * Git
 
 Publications
 ======
